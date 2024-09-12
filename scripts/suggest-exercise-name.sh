@@ -12,4 +12,4 @@ suggest_exercise_name() {
     COMPREPLY=($(compgen -W "$EXERCISES" -- "$2"))
 }
 
-complete -F suggest_exercise_name ./scripts/exercism_submit.sh
+complete -F suggest_exercise_name ./scripts/submit.sh
