@@ -12,6 +12,9 @@
     "terminal.integrated.defaultProfile.windows": "Git Bash",
     "files.associations": {
         "unity.h": "c",
-        "leap.h": "c"
+        "leap.h": "c",
+        "type_traits": "c",
+        "xtr1common": "c",
+        "xutility": "c"
     }
 }
