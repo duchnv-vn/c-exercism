@@ -15,6 +15,10 @@
         "leap.h": "c",
         "type_traits": "c",
         "xtr1common": "c",
-        "xutility": "c"
+        "xutility": "c",
+        "iosfwd": "c",
+        "string": "c",
+        "xmemory": "c",
+        "xstring": "c"
     }
 }
